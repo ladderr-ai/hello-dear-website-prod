@@ -14,7 +14,7 @@
 
   <!-- FAQ Page - High priority for user queries -->
   <url>
-    <loc>https://hellodear.care/faq</loc>
+    <loc>https://hellodear.care/faq/</loc>
     <lastmod>2025-11-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -22,21 +22,21 @@
 
   <!-- Legal Pages - Important for trust and compliance -->
   <url>
-    <loc>https://hellodear.care/privacy-policy</loc>
+    <loc>https://hellodear.care/privacy-policy/</loc>
     <lastmod>2025-11-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
 
   <url>
-    <loc>https://hellodear.care/terms-of-use</loc>
+    <loc>https://hellodear.care/terms-of-use/</loc>
     <lastmod>2025-11-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
 
   <url>
-    <loc>https://hellodear.care/cookie-policy</loc>
+    <loc>https://hellodear.care/cookie-policy/</loc>
     <lastmod>2025-11-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
